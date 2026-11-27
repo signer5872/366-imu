@@ -1,0 +1,27 @@
+Package: 366-imu
+Version: 1.0.1
+Architecture: amd64
+Maintainer: IMU Converter Maintainers <imu@localhost>
+Installed-Size: 86
+Depends: python3 (>= 3.6), libc6 (>= 2.17)
+Recommends: python3-tk
+Filename: ./366-imu_1.0.1_amd64.deb
+Size: 35074
+SHA256: 16ddaeb717e6f443147584738dbf7917bf1caf0f736a8fc1c63852929582491d
+Description: IMU 366 raw data converter and IMR text exporter
+ Converts Waypoint 366 IMU raw frames into IMR files and exports
+ IMR files to text or CSV.
+
+Package: 366-imu
+Version: 1.0.1
+Architecture: arm64
+Maintainer: IMU Converter Maintainers <imu@localhost>
+Installed-Size: 90
+Depends: python3 (>= 3.6), libc6 (>= 2.17)
+Recommends: python3-tk
+Filename: ./366-imu_1.0.1_arm64.deb
+Size: 36618
+SHA256: 308e02e4c44b35b61e1319d96bd189002bff768db71a15fcc45c951ef59d7134
+Description: IMU 366 raw data converter and IMR text exporter
+ Converts Waypoint 366 IMU raw frames into IMR files and exports
+ IMR files to text or CSV.
